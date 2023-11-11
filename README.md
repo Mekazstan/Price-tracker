@@ -41,4 +41,4 @@ Use `./run.sh` to start the script automation process.
 
 
 To stop `sudo lsof -i :5000`
-`sudo kill PID`
+`sudo kill PID`# Price-tracker
